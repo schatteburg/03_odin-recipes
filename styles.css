@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+ul, ol {
+    margin-top: 12px;
+}
+
+ul li, ol li {
+    margin-bottom: 4px;
+}
+
+.recipe-title {
+    text-align: center;
+    font-size: 32px;
+    border: 2px solid;
+    border-color: blue;
+    padding: 8px 16px;
+    margin: auto;
+    width: fit-content;
+}
+
+.subheader {
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    margin-bottom: 12px;
+}
